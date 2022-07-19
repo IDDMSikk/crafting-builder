@@ -1,0 +1,6 @@
+name: Crafting Builder
+version: '${project.version}'
+main: pl.iddmsdev.craftingbuilder
+api-version: 1.17
+authors: [ iddmsdev ]
+description: Create your own craftings!
